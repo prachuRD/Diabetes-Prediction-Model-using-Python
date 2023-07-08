@@ -1,2 +1,2 @@
 # Diabetes-Prediction-Model-using-Python
-Designed a Diabetes Prediction with 97% accuracy
+Designed a Diabetes Prediction Model with 97% accuracy
